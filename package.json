@@ -1,0 +1,15 @@
+{
+  "name": "logic-password-generator",
+  "version": "1.0.0",
+  "description": "https://v2.scrimba.com/s08mdqbn5p",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
